@@ -1,5 +1,7 @@
 # ygt_wallet
 
+Öncelikle dosyaları indirin ve indirdiğiniz dosyaları paketinize ekleyerek startını verin. Database wallet adında bir item ekleyin.(Yukarıda bulunan jsfour-idcard scriptini kendi paketinizdekiyle değiştirmeyi unutmayın!)
+
 `inventory:server:UseItemSlot`
 
 ```lua 
