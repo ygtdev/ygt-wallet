@@ -14,8 +14,8 @@ end
 `inventory:server:UseItem`
 
 ```lua 
-if item.name == "vehiclekey" then
-	TriggerClientEvent('tq-vehiclekey:client:arabayikilitlememlazim', src, itemData.info.plaka)
+if itemData.name == "wallet" then
+  TriggerClientEvent('nw:wallet:client', src, itemData.info.walletid)
 end
 ```
 
