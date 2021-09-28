@@ -1,6 +1,7 @@
 # ygt_wallet
 
 Önizleme: https://streamable.com/qawf4b
+
 Gerekenler: https://github.com/ygtdev/ygt_base
 
 Öncelikle dosyaları indirin ve indirdiğiniz dosyaları paketinize ekleyerek startını verin. Database wallet adında bir item ekleyin.(Yukarıda bulunan jsfour-idcard scriptini kendi paketinizdekiyle değiştirmeyi unutmayın!)
