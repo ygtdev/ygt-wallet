@@ -1,5 +1,4 @@
 ## Description
-
 Metaitem wallet for QBCore.
 
 ## Description
