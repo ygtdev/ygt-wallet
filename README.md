@@ -6,7 +6,7 @@ Metaitem wallet for QBCore.
 https://streamable.com/qawf4b
 
 ## Dependencies
-https://github.com/ygtdev/jsfour-idcard
+jsfour-idcard inside the file.
 
 ## Setup
 qb-core>server>player.lua 332th line
