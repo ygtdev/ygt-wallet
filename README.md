@@ -1,7 +1,7 @@
 ## Description
 Metaitem wallet for QBCore.
 
-## Description
+## Preview
 https://streamable.com/qawf4b
 
 ## Dependencies
